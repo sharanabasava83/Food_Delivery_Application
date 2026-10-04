@@ -1,11 +1,19 @@
 # 🍔 Food Delivery Application
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-success?style=for-the-badge&logo=vercel)](https://food-delivery-application-beta-pied.vercel.app/)
+[![Backend](https://img.shields.io/badge/Backend-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://food-delivery-application-0.onrender.com)
+[![Database](https://img.shields.io/badge/Database-Aiven%20MySQL-FF3E00?style=for-the-badge&logo=mysql&logoColor=white)](https://aiven.io)
+
 A full-stack food delivery web application built with **Spring Boot 3 (Java 17)** and **React 19 (Vite)**. Features end-to-end food ordering, dynamic discount strategies, customer authentication, restaurant management, cart and checkout workflows, order tracking, and an admin management dashboard.
+
+- 🌐 **Live Website**: [https://food-delivery-application-beta-pied.vercel.app/](https://food-delivery-application-beta-pied.vercel.app/)
+- ⚙️ **Backend API (Render)**: `https://food-delivery-application-0.onrender.com/api`
 
 ---
 
 ## 📑 Table of Contents
 
+- [Live Demo](#-live-demo)
 - [Features](#-features)
 - [Architecture & Tech Stack](#-architecture--tech-stack)
 - [Project Structure](#-project-structure)
@@ -19,6 +27,17 @@ A full-stack food delivery web application built with **Spring Boot 3 (Java 17)*
 - [License](#-license)
 
 ---
+
+## 🚀 Live Demo
+
+| Service | Platform | URL |
+|---|---|---|
+| **Frontend Web App** | Vercel | [https://food-delivery-application-beta-pied.vercel.app/](https://food-delivery-application-beta-pied.vercel.app/) |
+| **Backend REST API** | Render | [`https://food-delivery-application-0.onrender.com`](https://food-delivery-application-0.onrender.com) |
+| **MySQL Database** | Aiven Cloud | Managed MySQL Cluster (SSL Required) |
+
+---
+
 
 ## ✨ Features
 
