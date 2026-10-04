@@ -1,0 +1,29 @@
+# IDE & Editors
+.idea/
+*.iml
+.vscode/
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Backend (Java / Maven)
+backend/target/
+**/target/
+*.class
+
+# Frontend (Node / Vite)
+frontend/node_modules/
+**/node_modules/
+frontend/dist/
+**/dist/
+frontend/dist-ssr/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment and local configs
+*.local
+.env
+.env.*.local
